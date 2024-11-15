@@ -1,0 +1,23 @@
+label,start,end,note,unknown_1
+FOOD/500/20,2024-11-08 05:20:00+00:00,2024-11-08 05:50:00+00:00,Porridge,None
+FOOD/500/20,2024-11-07 06:30:00+00:00,2024-11-07 07:00:00+00:00,Porridge,None
+FOOD/150/2,2024-11-07 12:30:00+00:00,2024-11-07 13:00:00+00:00,"Sandwish, butter, peanut butter",None
+FOOD/115/0,2024-11-07 13:30:00+00:00,2024-11-07 14:00:00+00:00,Carbs,None
+FOOD/500/20,2024-11-07 15:00:00+00:00,2024-11-07 15:30:00+00:00,"Broccoli, veg. burger, halloumi, egg, watermelon, grapes, coleslaw, bea",None
+FOOD/300/20,2024-11-07 15:30:00+00:00,2024-11-07 16:00:00+00:00,Proteinbars,None
+FOOD/500/20,2024-11-06 05:30:00+00:00,2024-11-06 06:00:00+00:00,Porridge,None
+FOOD/500/20,2024-11-06 09:00:00+00:00,2024-11-06 09:30:00+00:00,Porridge,None
+FOOD/150/2,2024-11-06 12:00:00+00:00,2024-11-06 12:30:00+00:00,"Sandwish, butter, peanut butter",None
+FOOD/500/20,2024-11-05 15:30:00+00:00,2024-11-05 16:00:00+00:00,"Broccoli, kaki, veg sausage, coleslaw, plum, egg, mozzarella",None
+FOOD/500/20,2024-11-06 15:30:00+00:00,2024-11-06 16:00:00+00:00,"Broccoli, kaki, veg sausage, coleslaw, plum, egg, mozzarella",None
+FOOD/500/20,2024-11-04 15:00:00+00:00,2024-11-04 15:30:00+00:00,"Broccoli, kaki, veg sausage, coleslaw, plum, egg, mozzarella",None
+FOOD/115/0,2024-11-05 13:00:00+00:00,2024-11-05 13:30:00+00:00,Carbs,None
+FOOD/150/2,2024-11-05 11:30:00+00:00,2024-11-05 12:00:00+00:00,"Sandwish, butter, peanut butter",None
+FOOD/500/20,2024-11-05 09:00:00+00:00,2024-11-05 09:30:00+00:00,Porridge,None
+FOOD/500/20,2024-11-05 05:30:00+00:00,2024-11-05 06:00:00+00:00,Porridge,None
+FOOD/500/20,2024-11-04 06:30:00+00:00,2024-11-04 07:00:00+00:00,Porridge,None
+FOOD/500/20,2024-11-04 10:00:00+00:00,2024-11-04 10:30:00+00:00,Porridge,None
+FOOD/1000/10,2024-11-04 15:30:00+00:00,2024-11-04 16:00:00+00:00,"Protein bars, candy",None
+FOOD/400/10,2024-11-05 16:00:00+00:00,2024-11-05 16:30:00+00:00,Protein bars,None
+FOOD/500/10,2024-11-06 16:00:00+00:00,2024-11-06 16:30:00+00:00,Protein bars,None
+FOOD/500/20,2024-11-08 08:30:00+00:00,2024-11-08 09:00:00+00:00,Porridge,None
